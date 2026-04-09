@@ -10,3 +10,17 @@ Input validation to prevent crashes and handle invalid entries
 Hint system based on how close the guess is
 Win/loss tracking using an object-oriented approach
 Replay functionality
+
+How to Run
+Compile the program:
+javac Guessing.java GameStats.java
+Run the program:
+java Guessing
+What I Learned
+
+This project helped me improve my understanding of:
+
+Input validation using loops and try/catch
+Structuring programs using methods
+Applying object-oriented programming by creating a GameStats class
+Writing cleaner and more maintainable code
